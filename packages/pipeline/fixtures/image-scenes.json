@@ -1,0 +1,3656 @@
+{
+ "version": 1,
+ "aspect": "16:9",
+ "scenes": [
+  {
+   "id": "h01",
+   "category": "history",
+   "narration": "In July 1969 a Saturn V rocket carried three astronauts toward the Moon.",
+   "imageQuery": "Saturn V rocket launch",
+   "acceptable": [
+    "h01a",
+    "h01b"
+   ],
+   "candidates": [
+    {
+     "id": "h01a",
+     "title": "Apollo 11 Saturn V launch",
+     "tags": [
+      "nasa",
+      "rocket",
+      "launch",
+      "apollo",
+      "kennedy space center"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h01b",
+     "title": "Saturn V rocket on the launch pad",
+     "tags": [
+      "rocket",
+      "nasa",
+      "saturn v"
+     ],
+     "width": 1600,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "h01c",
+     "title": "Saturn planet rings from Cassini",
+     "tags": [
+      "saturn",
+      "planet",
+      "rings",
+      "space"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    },
+    {
+     "id": "h01d",
+     "title": "Apollo Theater marquee, Harlem",
+     "tags": [
+      "apollo",
+      "theater",
+      "new york"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h01e",
+     "title": "Rocket salad with tomatoes",
+     "tags": [
+      "rocket",
+      "salad",
+      "food",
+      "arugula"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "h01f",
+     "title": "Fireworks launch over the river",
+     "tags": [
+      "fireworks",
+      "night",
+      "launch"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h02",
+   "category": "history",
+   "narration": "Neil Armstrong's boot left a print in the lunar dust.",
+   "imageQuery": "astronaut footprint lunar surface",
+   "acceptable": [
+    "h02a"
+   ],
+   "candidates": [
+    {
+     "id": "h02a",
+     "title": "Buzz Aldrin bootprint on the lunar surface",
+     "tags": [
+      "apollo 11",
+      "moon",
+      "footprint",
+      "astronaut",
+      "regolith"
+     ],
+     "width": 2349,
+     "height": 2366,
+     "license": "by"
+    },
+    {
+     "id": "h02b",
+     "title": "Footprints in beach sand",
+     "tags": [
+      "beach",
+      "sand",
+      "footprints"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h02c",
+     "title": "Full moon rising",
+     "tags": [
+      "moon",
+      "night",
+      "sky"
+     ],
+     "width": 2000,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "h02d",
+     "title": "Astronaut training in a pool",
+     "tags": [
+      "astronaut",
+      "nasa",
+      "training",
+      "water"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "h02e",
+     "title": "Lunar module Eagle",
+     "tags": [
+      "apollo",
+      "lunar module",
+      "moon"
+     ],
+     "width": 1500,
+     "height": 1500,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h03",
+   "category": "history",
+   "narration": "In November 1989 crowds tore down the Berlin Wall.",
+   "imageQuery": "crowds Berlin Wall 1989",
+   "acceptable": [
+    "h03a",
+    "h03b"
+   ],
+   "candidates": [
+    {
+     "id": "h03a",
+     "title": "People on the Berlin Wall at the Brandenburg Gate, November 1989",
+     "tags": [
+      "berlin wall",
+      "1989",
+      "crowd",
+      "germany"
+     ],
+     "width": 1600,
+     "height": 1066,
+     "license": "by"
+    },
+    {
+     "id": "h03b",
+     "title": "Berliners chipping away at the Wall, 1989",
+     "tags": [
+      "berlin",
+      "wall",
+      "fall",
+      "reunification"
+     ],
+     "width": 1280,
+     "height": 853,
+     "license": "by"
+    },
+    {
+     "id": "h03c",
+     "title": "Graffiti on the East Side Gallery",
+     "tags": [
+      "berlin",
+      "graffiti",
+      "art"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h03d",
+     "title": "Brick wall texture",
+     "tags": [
+      "wall",
+      "brick",
+      "texture"
+     ],
+     "width": 3000,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "h03e",
+     "title": "Crowd at a concert",
+     "tags": [
+      "crowd",
+      "concert",
+      "music"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h04",
+   "category": "history",
+   "narration": "The Great Wall stretches thousands of kilometres across northern China.",
+   "imageQuery": "Great Wall of China mountains",
+   "acceptable": [
+    "h04a",
+    "h04b"
+   ],
+   "candidates": [
+    {
+     "id": "h04a",
+     "title": "Great Wall of China at Mutianyu",
+     "tags": [
+      "great wall",
+      "china",
+      "mountains",
+      "unesco"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h04b",
+     "title": "The Great Wall winding over mountains",
+     "tags": [
+      "china",
+      "wall",
+      "ridge",
+      "mountains"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h04c",
+     "title": "Chinese lanterns at night",
+     "tags": [
+      "china",
+      "lantern",
+      "festival"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "h04d",
+     "title": "Mountain range at sunrise",
+     "tags": [
+      "mountains",
+      "sunrise",
+      "landscape"
+     ],
+     "width": 2500,
+     "height": 1667,
+     "license": "by"
+    },
+    {
+     "id": "h04e",
+     "title": "Wall Street sign",
+     "tags": [
+      "wall street",
+      "new york",
+      "finance"
+     ],
+     "width": 1200,
+     "height": 800,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h05",
+   "category": "history",
+   "narration": "Gladiators once fought before fifty thousand spectators in the Colosseum.",
+   "imageQuery": "Colosseum Rome amphitheatre",
+   "acceptable": [
+    "h05a"
+   ],
+   "candidates": [
+    {
+     "id": "h05a",
+     "title": "The Colosseum in Rome",
+     "tags": [
+      "colosseum",
+      "rome",
+      "italy",
+      "amphitheatre",
+      "ancient"
+     ],
+     "width": 2048,
+     "height": 1365,
+     "license": "by"
+    },
+    {
+     "id": "h05b",
+     "title": "Rome street at night",
+     "tags": [
+      "rome",
+      "italy",
+      "street"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h05c",
+     "title": "Gladiator helmet replica",
+     "tags": [
+      "gladiator",
+      "helmet",
+      "museum"
+     ],
+     "width": 1200,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h05d",
+     "title": "Modern football stadium crowd",
+     "tags": [
+      "stadium",
+      "football",
+      "crowd"
+     ],
+     "width": 2400,
+     "height": 1350,
+     "license": "by"
+    },
+    {
+     "id": "h05e",
+     "title": "Roman forum ruins",
+     "tags": [
+      "rome",
+      "forum",
+      "ruins",
+      "ancient"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h06",
+   "category": "history",
+   "narration": "The Great Pyramid of Giza was the tallest structure on Earth for nearly four thousand years.",
+   "imageQuery": "Great Pyramid of Giza",
+   "acceptable": [
+    "h06a",
+    "h06b"
+   ],
+   "candidates": [
+    {
+     "id": "h06a",
+     "title": "Pyramids of Giza at sunset",
+     "tags": [
+      "egypt",
+      "giza",
+      "pyramid",
+      "desert"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h06b",
+     "title": "The Great Pyramid of Khufu",
+     "tags": [
+      "pyramid",
+      "giza",
+      "egypt",
+      "khufu"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h06c",
+     "title": "Louvre glass pyramid",
+     "tags": [
+      "paris",
+      "louvre",
+      "pyramid",
+      "glass"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h06d",
+     "title": "Food pyramid diagram",
+     "tags": [
+      "nutrition",
+      "food pyramid",
+      "diagram"
+     ],
+     "width": 1200,
+     "height": 900,
+     "license": "by"
+    },
+    {
+     "id": "h06e",
+     "title": "Camel in the desert",
+     "tags": [
+      "camel",
+      "desert",
+      "sand"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h07",
+   "category": "history",
+   "narration": "On a cold December morning in 1903, the Wright Flyer stayed aloft for twelve seconds.",
+   "imageQuery": "Wright Flyer first flight 1903",
+   "acceptable": [
+    "h07a"
+   ],
+   "candidates": [
+    {
+     "id": "h07a",
+     "title": "First flight of the Wright Flyer, December 17, 1903",
+     "tags": [
+      "wright brothers",
+      "flyer",
+      "kitty hawk",
+      "aviation",
+      "1903"
+     ],
+     "width": 1600,
+     "height": 1029,
+     "license": "by"
+    },
+    {
+     "id": "h07b",
+     "title": "Modern jet airliner taking off",
+     "tags": [
+      "airplane",
+      "jet",
+      "flight",
+      "aviation"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h07c",
+     "title": "Kitty Hawk dunes",
+     "tags": [
+      "kitty hawk",
+      "dunes",
+      "beach"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h07d",
+     "title": "Wright brothers portrait",
+     "tags": [
+      "wright brothers",
+      "portrait",
+      "inventors"
+     ],
+     "width": 1000,
+     "height": 1300,
+     "license": "by"
+    },
+    {
+     "id": "h07e",
+     "title": "Paper airplane",
+     "tags": [
+      "paper airplane",
+      "toy"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h08",
+   "category": "history",
+   "narration": "The Titanic left Southampton in April 1912 on its maiden voyage.",
+   "imageQuery": "RMS Titanic ship 1912",
+   "acceptable": [
+    "h08a"
+   ],
+   "candidates": [
+    {
+     "id": "h08a",
+     "title": "RMS Titanic departing Southampton, April 1912",
+     "tags": [
+      "titanic",
+      "ship",
+      "1912",
+      "ocean liner",
+      "southampton"
+     ],
+     "width": 2000,
+     "height": 1352,
+     "license": "by"
+    },
+    {
+     "id": "h08b",
+     "title": "Iceberg in the North Atlantic",
+     "tags": [
+      "iceberg",
+      "ocean",
+      "atlantic"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h08c",
+     "title": "Cruise ship at port",
+     "tags": [
+      "cruise ship",
+      "port",
+      "harbor"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h08d",
+     "title": "Romantic film poster illustration",
+     "tags": [
+      "illustration",
+      "romance",
+      "film"
+     ],
+     "width": 1200,
+     "height": 1800,
+     "license": "by"
+    },
+    {
+     "id": "h08e",
+     "title": "Shipwreck on the seabed",
+     "tags": [
+      "shipwreck",
+      "underwater",
+      "ocean"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h09",
+   "category": "history",
+   "narration": "High in the Andes, the Inca built Machu Picchu in the fifteenth century.",
+   "imageQuery": "Machu Picchu Inca citadel",
+   "acceptable": [
+    "h09a",
+    "h09b"
+   ],
+   "candidates": [
+    {
+     "id": "h09a",
+     "title": "Machu Picchu citadel above the clouds",
+     "tags": [
+      "machu picchu",
+      "peru",
+      "inca",
+      "andes"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h09b",
+     "title": "Inca ruins at Machu Picchu",
+     "tags": [
+      "inca",
+      "ruins",
+      "peru",
+      "machu picchu"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h09c",
+     "title": "Llama in the Andes",
+     "tags": [
+      "llama",
+      "andes",
+      "peru"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "h09d",
+     "title": "Cusco cathedral square",
+     "tags": [
+      "cusco",
+      "peru",
+      "cathedral"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h09e",
+     "title": "Mountain clouds",
+     "tags": [
+      "mountains",
+      "clouds",
+      "fog"
+     ],
+     "width": 2500,
+     "height": 1667,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h10",
+   "category": "history",
+   "narration": "Johannes Gutenberg's printing press made books cheap and fast to produce.",
+   "imageQuery": "Gutenberg printing press",
+   "acceptable": [
+    "h10a",
+    "h10b"
+   ],
+   "candidates": [
+    {
+     "id": "h10a",
+     "title": "Replica of the Gutenberg printing press",
+     "tags": [
+      "gutenberg",
+      "printing press",
+      "museum",
+      "mainz"
+     ],
+     "width": 1600,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h10b",
+     "title": "Gutenberg Bible pages",
+     "tags": [
+      "gutenberg bible",
+      "book",
+      "printing"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h10c",
+     "title": "Modern office printer",
+     "tags": [
+      "printer",
+      "office",
+      "technology"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "h10d",
+     "title": "Newspaper stack",
+     "tags": [
+      "newspaper",
+      "press",
+      "news"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h10e",
+     "title": "Press conference microphones",
+     "tags": [
+      "press",
+      "conference",
+      "microphones"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h11",
+   "category": "history",
+   "narration": "The Statue of Liberty arrived in New York in 1885, packed in 214 crates.",
+   "imageQuery": "Statue of Liberty construction",
+   "acceptable": [
+    "h11a",
+    "h11b"
+   ],
+   "candidates": [
+    {
+     "id": "h11a",
+     "title": "Statue of Liberty under construction in Paris",
+     "tags": [
+      "statue of liberty",
+      "construction",
+      "bartholdi",
+      "1880s"
+     ],
+     "width": 1200,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h11b",
+     "title": "Statue of Liberty at sunset",
+     "tags": [
+      "statue of liberty",
+      "new york",
+      "landmark"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h11c",
+     "title": "Construction crane at work",
+     "tags": [
+      "construction",
+      "crane",
+      "building"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h11d",
+     "title": "Liberty Bell in Philadelphia",
+     "tags": [
+      "liberty bell",
+      "philadelphia",
+      "history"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "h11e",
+     "title": "New York skyline",
+     "tags": [
+      "new york",
+      "skyline",
+      "manhattan"
+     ],
+     "width": 2400,
+     "height": 1350,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h12",
+   "category": "history",
+   "narration": "On June 6, 1944, Allied troops landed on the beaches of Normandy.",
+   "imageQuery": "D-Day Normandy landing troops",
+   "acceptable": [
+    "h12a"
+   ],
+   "candidates": [
+    {
+     "id": "h12a",
+     "title": "Troops wading ashore at Omaha Beach, D-Day 1944",
+     "tags": [
+      "d-day",
+      "normandy",
+      "1944",
+      "omaha beach",
+      "troops",
+      "landing"
+     ],
+     "width": 1600,
+     "height": 1270,
+     "license": "by"
+    },
+    {
+     "id": "h12b",
+     "title": "Normandy beach today",
+     "tags": [
+      "normandy",
+      "beach",
+      "france"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h12c",
+     "title": "Military parade",
+     "tags": [
+      "military",
+      "parade",
+      "soldiers"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h12d",
+     "title": "Landing craft museum exhibit",
+     "tags": [
+      "landing craft",
+      "museum",
+      "ww2"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "h12e",
+     "title": "Beach umbrellas in summer",
+     "tags": [
+      "beach",
+      "summer",
+      "umbrellas"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h13",
+   "category": "history",
+   "narration": "Roman engineers carried water across valleys on stone aqueducts.",
+   "imageQuery": "Roman aqueduct stone arches",
+   "acceptable": [
+    "h13a",
+    "h13b"
+   ],
+   "candidates": [
+    {
+     "id": "h13a",
+     "title": "Pont du Gard Roman aqueduct",
+     "tags": [
+      "roman",
+      "aqueduct",
+      "france",
+      "pont du gard",
+      "arches"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h13b",
+     "title": "Aqueduct of Segovia arches",
+     "tags": [
+      "aqueduct",
+      "segovia",
+      "spain",
+      "roman"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h13c",
+     "title": "Stone bridge over a river",
+     "tags": [
+      "stone",
+      "bridge",
+      "river"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h13d",
+     "title": "Water pipes in a factory",
+     "tags": [
+      "water",
+      "pipes",
+      "industrial"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "h13e",
+     "title": "Arches of a cathedral nave",
+     "tags": [
+      "arches",
+      "cathedral",
+      "gothic"
+     ],
+     "width": 1600,
+     "height": 2000,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h14",
+   "category": "history",
+   "narration": "Viking longships crossed the North Sea to raid and trade.",
+   "imageQuery": "Viking longship replica sailing",
+   "acceptable": [
+    "h14a",
+    "h14d"
+   ],
+   "candidates": [
+    {
+     "id": "h14a",
+     "title": "Viking longship replica under sail",
+     "tags": [
+      "viking",
+      "longship",
+      "sail",
+      "norway",
+      "replica"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "h14b",
+     "title": "Viking helmet in a museum",
+     "tags": [
+      "viking",
+      "helmet",
+      "museum"
+     ],
+     "width": 1200,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h14c",
+     "title": "Sailboat race",
+     "tags": [
+      "sailing",
+      "regatta",
+      "boats"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "h14d",
+     "title": "Oseberg Viking ship in a museum",
+     "tags": [
+      "viking ship",
+      "oseberg",
+      "museum",
+      "oslo"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h14e",
+     "title": "North Sea waves",
+     "tags": [
+      "sea",
+      "waves",
+      "storm"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "h15",
+   "category": "history",
+   "narration": "Steam engines powered the factories of the Industrial Revolution.",
+   "imageQuery": "steam engine industrial revolution",
+   "acceptable": [
+    "h15a",
+    "h15b"
+   ],
+   "candidates": [
+    {
+     "id": "h15a",
+     "title": "Beam steam engine at a historic pumping station",
+     "tags": [
+      "steam engine",
+      "industrial revolution",
+      "engineering",
+      "museum"
+     ],
+     "width": 1600,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "h15b",
+     "title": "Steam locomotive in an old factory yard",
+     "tags": [
+      "steam",
+      "locomotive",
+      "industrial",
+      "19th century"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "h15c",
+     "title": "Kettle steaming on a stove",
+     "tags": [
+      "steam",
+      "kettle",
+      "kitchen"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "h15d",
+     "title": "Search engine logo collage",
+     "tags": [
+      "search engine",
+      "internet"
+     ],
+     "width": 1200,
+     "height": 800,
+     "license": "by"
+    },
+    {
+     "id": "h15e",
+     "title": "Modern factory robots",
+     "tags": [
+      "factory",
+      "robots",
+      "automation"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n01",
+   "category": "nature",
+   "narration": "Molten lava pours from an erupting volcano.",
+   "imageQuery": "erupting volcano lava",
+   "acceptable": [
+    "n01a",
+    "n01b"
+   ],
+   "candidates": [
+    {
+     "id": "n01a",
+     "title": "Lava fountain from an erupting volcano, Hawaii",
+     "tags": [
+      "volcano",
+      "lava",
+      "eruption",
+      "kilauea"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n01b",
+     "title": "Etna eruption at night",
+     "tags": [
+      "etna",
+      "volcano",
+      "eruption",
+      "lava"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n01c",
+     "title": "Volcano cake dessert",
+     "tags": [
+      "cake",
+      "chocolate",
+      "dessert"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n01d",
+     "title": "Snow-capped Mount Fuji",
+     "tags": [
+      "mount fuji",
+      "volcano",
+      "snow",
+      "japan"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n01e",
+     "title": "Campfire flames",
+     "tags": [
+      "fire",
+      "campfire",
+      "flames"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n02",
+   "category": "nature",
+   "narration": "Each autumn, millions of monarch butterflies fly to Mexico.",
+   "imageQuery": "monarch butterflies migration",
+   "acceptable": [
+    "n02a",
+    "n02b"
+   ],
+   "candidates": [
+    {
+     "id": "n02a",
+     "title": "Monarch butterflies clustered on fir trees in Michoacán",
+     "tags": [
+      "monarch butterfly",
+      "migration",
+      "mexico",
+      "insects"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n02b",
+     "title": "Monarch butterfly on milkweed",
+     "tags": [
+      "monarch",
+      "butterfly",
+      "milkweed"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "n02c",
+     "title": "Birds flying in V formation",
+     "tags": [
+      "birds",
+      "migration",
+      "sky"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n02d",
+     "title": "Butterfly knife",
+     "tags": [
+      "knife",
+      "tool"
+     ],
+     "width": 1200,
+     "height": 800,
+     "license": "by"
+    },
+    {
+     "id": "n02e",
+     "title": "Orange autumn leaves",
+     "tags": [
+      "autumn",
+      "leaves",
+      "orange"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n03",
+   "category": "nature",
+   "narration": "Charged particles from the Sun light up the polar sky as auroras.",
+   "imageQuery": "aurora borealis night sky",
+   "acceptable": [
+    "n03a",
+    "n03b"
+   ],
+   "candidates": [
+    {
+     "id": "n03a",
+     "title": "Aurora borealis over Iceland",
+     "tags": [
+      "aurora",
+      "northern lights",
+      "iceland",
+      "night sky"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n03b",
+     "title": "Green northern lights above a forest",
+     "tags": [
+      "northern lights",
+      "aurora borealis",
+      "forest"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n03c",
+     "title": "Milky Way over the desert",
+     "tags": [
+      "milky way",
+      "stars",
+      "night sky"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n03d",
+     "title": "City lights at night",
+     "tags": [
+      "city",
+      "lights",
+      "night"
+     ],
+     "width": 2400,
+     "height": 1350,
+     "license": "by"
+    },
+    {
+     "id": "n03e",
+     "title": "Sunrise over the sea",
+     "tags": [
+      "sunrise",
+      "sea",
+      "sky"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n04",
+   "category": "nature",
+   "narration": "Coral reefs shelter a quarter of all marine fish.",
+   "imageQuery": "coral reef tropical fish",
+   "acceptable": [
+    "n04a",
+    "n04b"
+   ],
+   "candidates": [
+    {
+     "id": "n04a",
+     "title": "Coral reef with tropical fish, Great Barrier Reef",
+     "tags": [
+      "coral reef",
+      "fish",
+      "ocean",
+      "great barrier reef"
+     ],
+     "width": 2048,
+     "height": 1365,
+     "license": "by"
+    },
+    {
+     "id": "n04b",
+     "title": "School of fish over hard coral",
+     "tags": [
+      "fish",
+      "coral",
+      "reef",
+      "underwater"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n04c",
+     "title": "Aquarium fish tank",
+     "tags": [
+      "aquarium",
+      "fish",
+      "tank"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n04d",
+     "title": "Coral-coloured fabric",
+     "tags": [
+      "coral",
+      "fabric",
+      "color"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "n04e",
+     "title": "Sea turtle swimming",
+     "tags": [
+      "sea turtle",
+      "ocean",
+      "underwater"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n05",
+   "category": "nature",
+   "narration": "Emperor penguins huddle together through the Antarctic winter.",
+   "imageQuery": "emperor penguins huddle Antarctica",
+   "acceptable": [
+    "n05a"
+   ],
+   "candidates": [
+    {
+     "id": "n05a",
+     "title": "Emperor penguins huddling in Antarctica",
+     "tags": [
+      "emperor penguin",
+      "antarctica",
+      "huddle",
+      "colony"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n05b",
+     "title": "Penguin plush toy",
+     "tags": [
+      "penguin",
+      "toy"
+     ],
+     "width": 1200,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "n05c",
+     "title": "Antarctic ice shelf",
+     "tags": [
+      "antarctica",
+      "ice",
+      "glacier"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n05d",
+     "title": "King penguins on a beach",
+     "tags": [
+      "king penguin",
+      "south georgia",
+      "beach"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n05e",
+     "title": "Snowstorm in a city",
+     "tags": [
+      "snow",
+      "storm",
+      "winter"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n06",
+   "category": "nature",
+   "narration": "The Amazon rainforest produces much of its own rain.",
+   "imageQuery": "Amazon rainforest canopy",
+   "acceptable": [
+    "n06a",
+    "n06b"
+   ],
+   "candidates": [
+    {
+     "id": "n06a",
+     "title": "Amazon rainforest canopy from above",
+     "tags": [
+      "amazon",
+      "rainforest",
+      "canopy",
+      "brazil"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n06b",
+     "title": "Mist over the Amazon jungle",
+     "tags": [
+      "jungle",
+      "amazon",
+      "rainforest",
+      "mist"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n06c",
+     "title": "Amazon warehouse boxes",
+     "tags": [
+      "amazon",
+      "warehouse",
+      "delivery"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n06d",
+     "title": "Rain on a window",
+     "tags": [
+      "rain",
+      "window",
+      "drops"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n06e",
+     "title": "Toucan in the tropics",
+     "tags": [
+      "toucan",
+      "bird",
+      "tropical"
+     ],
+     "width": 1500,
+     "height": 1500,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n07",
+   "category": "nature",
+   "narration": "The Colorado River carved the Grand Canyon over millions of years.",
+   "imageQuery": "Grand Canyon Colorado River",
+   "acceptable": [
+    "n07a",
+    "n07b"
+   ],
+   "candidates": [
+    {
+     "id": "n07a",
+     "title": "Colorado River in the Grand Canyon",
+     "tags": [
+      "grand canyon",
+      "colorado river",
+      "arizona"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n07b",
+     "title": "Grand Canyon at sunset",
+     "tags": [
+      "grand canyon",
+      "sunset",
+      "canyon"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n07c",
+     "title": "Grand piano on a stage",
+     "tags": [
+      "piano",
+      "music",
+      "stage"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n07d",
+     "title": "River rafting",
+     "tags": [
+      "rafting",
+      "river",
+      "adventure"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n07e",
+     "title": "Red rock desert road",
+     "tags": [
+      "desert",
+      "road",
+      "red rock"
+     ],
+     "width": 2400,
+     "height": 1350,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n08",
+   "category": "nature",
+   "narration": "A humpback whale can launch its forty-tonne body clear of the water.",
+   "imageQuery": "humpback whale breaching",
+   "acceptable": [
+    "n08a",
+    "n08b"
+   ],
+   "candidates": [
+    {
+     "id": "n08a",
+     "title": "Humpback whale breaching off Alaska",
+     "tags": [
+      "humpback whale",
+      "breach",
+      "whale",
+      "ocean"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n08b",
+     "title": "Humpback whale tail fluke",
+     "tags": [
+      "whale",
+      "tail",
+      "ocean"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n08c",
+     "title": "Blue whale skeleton in a museum",
+     "tags": [
+      "blue whale",
+      "skeleton",
+      "museum"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n08d",
+     "title": "Dolphins jumping",
+     "tags": [
+      "dolphins",
+      "jumping",
+      "sea"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n08e",
+     "title": "Whale watching boat",
+     "tags": [
+      "whale watching",
+      "boat",
+      "tourists"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n09",
+   "category": "nature",
+   "narration": "A single bolt of lightning is five times hotter than the surface of the Sun.",
+   "imageQuery": "lightning bolt storm",
+   "acceptable": [
+    "n09a",
+    "n09b"
+   ],
+   "candidates": [
+    {
+     "id": "n09a",
+     "title": "Lightning bolt over a city during a storm",
+     "tags": [
+      "lightning",
+      "storm",
+      "thunderstorm",
+      "night"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n09b",
+     "title": "Forked lightning strike",
+     "tags": [
+      "lightning",
+      "bolt",
+      "weather"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n09c",
+     "title": "Lightning cable charger",
+     "tags": [
+      "cable",
+      "charger",
+      "phone"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "n09d",
+     "title": "Storm clouds over fields",
+     "tags": [
+      "storm",
+      "clouds",
+      "weather"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n09e",
+     "title": "Bolt and nut hardware",
+     "tags": [
+      "bolt",
+      "nut",
+      "hardware"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "category": "nature",
+   "narration": "Wind sculpts the Sahara's dunes into waves of sand.",
+   "imageQuery": "Sahara sand dunes",
+   "acceptable": [
+    "n10a",
+    "n10b",
+    "n10e"
+   ],
+   "candidates": [
+    {
+     "id": "n10a",
+     "title": "Sand dunes in the Sahara at sunset",
+     "tags": [
+      "sahara",
+      "desert",
+      "sand dunes",
+      "morocco"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n10b",
+     "title": "Wind ripples on desert dunes",
+     "tags": [
+      "dunes",
+      "sand",
+      "wind",
+      "desert"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n10c",
+     "title": "Beach sand castle",
+     "tags": [
+      "sand castle",
+      "beach"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n10d",
+     "title": "Dune buggy race",
+     "tags": [
+      "dune buggy",
+      "race",
+      "vehicle"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n10e",
+     "title": "Camel caravan crossing the Sahara",
+     "tags": [
+      "camel",
+      "caravan",
+      "desert"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "category": "nature",
+   "narration": "Giant sequoias can live for more than three thousand years.",
+   "imageQuery": "giant sequoia trees forest",
+   "acceptable": [
+    "n11a",
+    "n11b"
+   ],
+   "candidates": [
+    {
+     "id": "n11a",
+     "title": "Giant sequoia trees in Sequoia National Park",
+     "tags": [
+      "giant sequoia",
+      "trees",
+      "forest",
+      "california"
+     ],
+     "width": 1600,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "n11b",
+     "title": "General Sherman tree",
+     "tags": [
+      "sequoia",
+      "tree",
+      "general sherman"
+     ],
+     "width": 1500,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "n11c",
+     "title": "Pine forest in fog",
+     "tags": [
+      "forest",
+      "pine",
+      "fog"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n11d",
+     "title": "Bonsai tree",
+     "tags": [
+      "bonsai",
+      "tree",
+      "miniature"
+     ],
+     "width": 1600,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n11e",
+     "title": "Redwood deck furniture",
+     "tags": [
+      "redwood",
+      "furniture",
+      "deck"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "category": "nature",
+   "narration": "A honeybee visits up to a hundred flowers on a single trip.",
+   "imageQuery": "honeybee pollinating flower",
+   "acceptable": [
+    "n12a",
+    "n12b"
+   ],
+   "candidates": [
+    {
+     "id": "n12a",
+     "title": "Honeybee pollinating a sunflower",
+     "tags": [
+      "honeybee",
+      "bee",
+      "pollination",
+      "flower"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n12b",
+     "title": "Bee on lavender",
+     "tags": [
+      "bee",
+      "lavender",
+      "flower",
+      "insect"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n12c",
+     "title": "Honey jar with a dipper",
+     "tags": [
+      "honey",
+      "jar",
+      "food"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n12d",
+     "title": "Spelling bee competition",
+     "tags": [
+      "spelling bee",
+      "school"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n12e",
+     "title": "Field of flowers",
+     "tags": [
+      "flowers",
+      "field",
+      "spring"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "category": "nature",
+   "narration": "Chunks of ice the size of buildings break off glaciers into the sea.",
+   "imageQuery": "glacier calving iceberg",
+   "acceptable": [
+    "n13a",
+    "n13b"
+   ],
+   "candidates": [
+    {
+     "id": "n13a",
+     "title": "Glacier calving into the sea, Alaska",
+     "tags": [
+      "glacier",
+      "calving",
+      "ice",
+      "alaska"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n13b",
+     "title": "Iceberg floating off Greenland",
+     "tags": [
+      "iceberg",
+      "greenland",
+      "ice"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n13c",
+     "title": "Ice cubes in a glass",
+     "tags": [
+      "ice",
+      "cubes",
+      "drink"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "n13d",
+     "title": "Glacier hiking tourists",
+     "tags": [
+      "glacier",
+      "hiking",
+      "tourists"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n13e",
+     "title": "Iceberg lettuce salad",
+     "tags": [
+      "iceberg lettuce",
+      "salad"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "category": "nature",
+   "narration": "The bald eagle was nearly wiped out by the pesticide DDT.",
+   "imageQuery": "bald eagle flying",
+   "acceptable": [
+    "n14a",
+    "n14b"
+   ],
+   "candidates": [
+    {
+     "id": "n14a",
+     "title": "Bald eagle in flight",
+     "tags": [
+      "bald eagle",
+      "bird",
+      "raptor",
+      "flight"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "n14b",
+     "title": "Bald eagle perched on a branch",
+     "tags": [
+      "bald eagle",
+      "eagle",
+      "perched"
+     ],
+     "width": 1600,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n14c",
+     "title": "Eagle emblem on a flag",
+     "tags": [
+      "eagle",
+      "emblem",
+      "flag"
+     ],
+     "width": 1200,
+     "height": 800,
+     "license": "by"
+    },
+    {
+     "id": "n14d",
+     "title": "Bald man with sunglasses",
+     "tags": [
+      "man",
+      "portrait",
+      "sunglasses"
+     ],
+     "width": 1200,
+     "height": 1500,
+     "license": "by"
+    },
+    {
+     "id": "n14e",
+     "title": "Hawk hunting",
+     "tags": [
+      "hawk",
+      "bird",
+      "hunting"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "category": "nature",
+   "narration": "Every second, enough water to fill a swimming pool pours over Niagara Falls.",
+   "imageQuery": "Niagara Falls waterfall",
+   "acceptable": [
+    "n15a",
+    "n15b"
+   ],
+   "candidates": [
+    {
+     "id": "n15a",
+     "title": "Horseshoe Falls at Niagara",
+     "tags": [
+      "niagara falls",
+      "waterfall",
+      "canada"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "n15b",
+     "title": "Niagara Falls from the Maid of the Mist",
+     "tags": [
+      "niagara",
+      "waterfall",
+      "boat"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "n15c",
+     "title": "Small forest waterfall",
+     "tags": [
+      "waterfall",
+      "forest",
+      "stream"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "n15d",
+     "title": "Water pouring into a glass",
+     "tags": [
+      "water",
+      "glass",
+      "pouring"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "n15e",
+     "title": "Swimming pool",
+     "tags": [
+      "swimming pool",
+      "summer"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s01",
+   "category": "science",
+   "narration": "DNA's double helix was described in 1953, building on Rosalind Franklin's X-ray images.",
+   "imageQuery": "DNA double helix model",
+   "acceptable": [
+    "s01a",
+    "s01b"
+   ],
+   "candidates": [
+    {
+     "id": "s01a",
+     "title": "DNA double helix model",
+     "tags": [
+      "dna",
+      "double helix",
+      "model",
+      "molecule"
+     ],
+     "width": 1600,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "s01b",
+     "title": "3D render of a DNA strand",
+     "tags": [
+      "dna",
+      "strand",
+      "genetics",
+      "render"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    },
+    {
+     "id": "s01c",
+     "title": "Spiral staircase",
+     "tags": [
+      "spiral",
+      "staircase",
+      "architecture"
+     ],
+     "width": 1600,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "s01d",
+     "title": "Laboratory pipette",
+     "tags": [
+      "pipette",
+      "laboratory",
+      "science"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "s01e",
+     "title": "Family portrait",
+     "tags": [
+      "family",
+      "portrait"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "category": "science",
+   "narration": "The Hubble Space Telescope has orbited Earth since 1990.",
+   "imageQuery": "Hubble Space Telescope orbit",
+   "acceptable": [
+    "s02a"
+   ],
+   "candidates": [
+    {
+     "id": "s02a",
+     "title": "Hubble Space Telescope in orbit above Earth",
+     "tags": [
+      "hubble",
+      "space telescope",
+      "nasa",
+      "orbit"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "s02b",
+     "title": "Backyard telescope",
+     "tags": [
+      "telescope",
+      "astronomy",
+      "amateur"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s02c",
+     "title": "Galaxy photographed by Hubble",
+     "tags": [
+      "galaxy",
+      "hubble image",
+      "space"
+     ],
+     "width": 1920,
+     "height": 1920,
+     "license": "by"
+    },
+    {
+     "id": "s02d",
+     "title": "Space shuttle launch",
+     "tags": [
+      "space shuttle",
+      "nasa",
+      "launch"
+     ],
+     "width": 1600,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "s02e",
+     "title": "Satellite dish",
+     "tags": [
+      "satellite dish",
+      "antenna"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "category": "science",
+   "narration": "Under a microscope, a single drop of pond water teems with microbes.",
+   "imageQuery": "microscope view microbes",
+   "acceptable": [
+    "s03a",
+    "s03b"
+   ],
+   "candidates": [
+    {
+     "id": "s03a",
+     "title": "Pond water microorganisms under a microscope",
+     "tags": [
+      "microscope",
+      "microorganisms",
+      "pond water",
+      "microbes"
+     ],
+     "width": 1600,
+     "height": 1200,
+     "license": "by"
+    },
+    {
+     "id": "s03b",
+     "title": "Bacteria colonies micrograph",
+     "tags": [
+      "bacteria",
+      "micrograph",
+      "microbes"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s03c",
+     "title": "Microscope on a lab bench",
+     "tags": [
+      "microscope",
+      "laboratory",
+      "science"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s03d",
+     "title": "Pond with ducks",
+     "tags": [
+      "pond",
+      "ducks",
+      "park"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s03e",
+     "title": "Water drop macro",
+     "tags": [
+      "water drop",
+      "macro"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "category": "science",
+   "narration": "Solar panels turn sunlight directly into electricity.",
+   "imageQuery": "solar panel farm",
+   "acceptable": [
+    "s04a",
+    "s04b"
+   ],
+   "candidates": [
+    {
+     "id": "s04a",
+     "title": "Solar panel farm in the desert",
+     "tags": [
+      "solar panels",
+      "solar farm",
+      "renewable energy"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "s04b",
+     "title": "Rows of photovoltaic panels",
+     "tags": [
+      "photovoltaic",
+      "solar",
+      "energy"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s04c",
+     "title": "Sunflower field",
+     "tags": [
+      "sunflowers",
+      "field",
+      "summer"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "s04d",
+     "title": "Farm tractor",
+     "tags": [
+      "farm",
+      "tractor",
+      "agriculture"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s04e",
+     "title": "Solar system illustration",
+     "tags": [
+      "solar system",
+      "planets",
+      "illustration"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "category": "science",
+   "narration": "At CERN, particles race around a 27-kilometre ring.",
+   "imageQuery": "CERN particle accelerator tunnel",
+   "acceptable": [
+    "s05a"
+   ],
+   "candidates": [
+    {
+     "id": "s05a",
+     "title": "Large Hadron Collider tunnel at CERN",
+     "tags": [
+      "cern",
+      "lhc",
+      "particle accelerator",
+      "tunnel",
+      "physics"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "s05b",
+     "title": "Subway tunnel",
+     "tags": [
+      "subway",
+      "tunnel",
+      "train"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s05c",
+     "title": "Particle board furniture",
+     "tags": [
+      "particle board",
+      "wood"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "s05d",
+     "title": "CERN Globe of Science building",
+     "tags": [
+      "cern",
+      "geneva",
+      "globe"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s05e",
+     "title": "Physics equations on a blackboard",
+     "tags": [
+      "physics",
+      "equations",
+      "blackboard"
+     ],
+     "width": 1800,
+     "height": 1200,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "category": "science",
+   "narration": "Modern wind turbines stand taller than the Statue of Liberty.",
+   "imageQuery": "wind turbines field",
+   "acceptable": [
+    "s06a",
+    "s06b"
+   ],
+   "candidates": [
+    {
+     "id": "s06a",
+     "title": "Wind turbines on a green field",
+     "tags": [
+      "wind turbines",
+      "wind farm",
+      "renewable energy"
+     ],
+     "width": 2400,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "s06b",
+     "title": "Offshore wind farm",
+     "tags": [
+      "wind farm",
+      "offshore",
+      "turbines"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s06c",
+     "title": "Old Dutch windmill",
+     "tags": [
+      "windmill",
+      "netherlands"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s06d",
+     "title": "Statue of Liberty",
+     "tags": [
+      "statue of liberty",
+      "new york"
+     ],
+     "width": 1200,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "s06e",
+     "title": "Wind chime",
+     "tags": [
+      "wind chime",
+      "garden"
+     ],
+     "width": 1200,
+     "height": 1200,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "category": "science",
+   "narration": "In the lab, a single colour change can reveal a chemical reaction.",
+   "imageQuery": "chemistry lab test tubes",
+   "acceptable": [
+    "s07a",
+    "s07b"
+   ],
+   "candidates": [
+    {
+     "id": "s07a",
+     "title": "Coloured liquids in chemistry test tubes",
+     "tags": [
+      "chemistry",
+      "test tubes",
+      "laboratory"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s07b",
+     "title": "Chemist mixing solutions in a lab",
+     "tags": [
+      "chemist",
+      "laboratory",
+      "chemistry",
+      "flask"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s07c",
+     "title": "Paint swatches",
+     "tags": [
+      "paint",
+      "colour",
+      "swatches"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s07d",
+     "title": "Toothpaste tubes",
+     "tags": [
+      "toothpaste",
+      "tubes",
+      "bathroom"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "s07e",
+     "title": "Brick school building",
+     "tags": [
+      "school",
+      "building"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "category": "science",
+   "narration": "An MRI scanner maps the brain without a single incision.",
+   "imageQuery": "brain MRI scan",
+   "acceptable": [
+    "s08a",
+    "s08b"
+   ],
+   "candidates": [
+    {
+     "id": "s08a",
+     "title": "MRI scan of a human brain",
+     "tags": [
+      "mri",
+      "brain",
+      "scan",
+      "medical imaging"
+     ],
+     "width": 1600,
+     "height": 1600,
+     "license": "by"
+    },
+    {
+     "id": "s08b",
+     "title": "MRI machine in a hospital",
+     "tags": [
+      "mri machine",
+      "hospital",
+      "medical"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "s08c",
+     "title": "Brain-shaped jelly dessert",
+     "tags": [
+      "jelly",
+      "dessert",
+      "brain"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "s08d",
+     "title": "Doctor with a stethoscope",
+     "tags": [
+      "doctor",
+      "stethoscope",
+      "medicine"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s08e",
+     "title": "Brain coral",
+     "tags": [
+      "brain coral",
+      "ocean",
+      "reef"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "category": "science",
+   "narration": "Engineers fire rocket engines on test stands before they ever fly.",
+   "imageQuery": "rocket engine test fire",
+   "acceptable": [
+    "s09a"
+   ],
+   "candidates": [
+    {
+     "id": "s09a",
+     "title": "Rocket engine test firing at a test stand",
+     "tags": [
+      "rocket engine",
+      "test",
+      "fire",
+      "nasa",
+      "stennis"
+     ],
+     "width": 2000,
+     "height": 1333,
+     "license": "by"
+    },
+    {
+     "id": "s09b",
+     "title": "Rocket launch at night",
+     "tags": [
+      "rocket",
+      "launch",
+      "night"
+     ],
+     "width": 1600,
+     "height": 2000,
+     "license": "by"
+    },
+    {
+     "id": "s09c",
+     "title": "Car engine bay",
+     "tags": [
+      "engine",
+      "car",
+      "mechanic"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s09d",
+     "title": "Fire truck",
+     "tags": [
+      "fire truck",
+      "firefighters"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "s09e",
+     "title": "Bonfire",
+     "tags": [
+      "bonfire",
+      "fire",
+      "night"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "category": "science",
+   "narration": "In 2019, astronomers released the first image of a black hole's shadow.",
+   "imageQuery": "black hole image M87",
+   "acceptable": [
+    "s10a",
+    "s10b"
+   ],
+   "candidates": [
+    {
+     "id": "s10a",
+     "title": "First image of the M87 black hole, Event Horizon Telescope",
+     "tags": [
+      "black hole",
+      "m87",
+      "event horizon telescope",
+      "astronomy"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    },
+    {
+     "id": "s10b",
+     "title": "Artist's impression of a black hole",
+     "tags": [
+      "black hole",
+      "illustration",
+      "space"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    },
+    {
+     "id": "s10c",
+     "title": "Black cat in a dark room",
+     "tags": [
+      "black cat",
+      "dark"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s10d",
+     "title": "Pothole in the road",
+     "tags": [
+      "pothole",
+      "road",
+      "asphalt"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "s10e",
+     "title": "Spiral galaxy",
+     "tags": [
+      "galaxy",
+      "spiral",
+      "stars"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a01",
+   "category": "abstract",
+   "narration": "When prices rise faster than wages, savings quietly lose their value.",
+   "imageQuery": "rising prices shrinking savings",
+   "acceptable": [
+    "a01a",
+    "a01b"
+   ],
+   "candidates": [
+    {
+     "id": "a01a",
+     "title": "Coins stacked in a glass jar",
+     "tags": [
+      "coins",
+      "money",
+      "savings",
+      "jar"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a01b",
+     "title": "Supermarket receipt with prices",
+     "tags": [
+      "receipt",
+      "shopping",
+      "groceries"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a01c",
+     "title": "Stock market chart on a screen",
+     "tags": [
+      "stock market",
+      "chart",
+      "finance"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    },
+    {
+     "id": "a01d",
+     "title": "Shrinking violet flower",
+     "tags": [
+      "violet",
+      "flower"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "a01e",
+     "title": "Hot air balloons rising",
+     "tags": [
+      "balloons",
+      "sky"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a02",
+   "category": "abstract",
+   "narration": "Trust in public institutions takes years to build and moments to lose.",
+   "imageQuery": "trust institutions",
+   "acceptable": [
+    "a02a",
+    "a02b"
+   ],
+   "candidates": [
+    {
+     "id": "a02a",
+     "title": "Handshake between two people",
+     "tags": [
+      "handshake",
+      "agreement",
+      "business"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a02b",
+     "title": "Courthouse columns",
+     "tags": [
+      "courthouse",
+      "columns",
+      "justice"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a02c",
+     "title": "Bank building facade",
+     "tags": [
+      "bank",
+      "building",
+      "finance"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a02d",
+     "title": "Trust fall team exercise",
+     "tags": [
+      "team building",
+      "trust",
+      "exercise"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a02e",
+     "title": "Cracked glass",
+     "tags": [
+      "glass",
+      "broken"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a03",
+   "category": "abstract",
+   "narration": "Every second, the past grows a little longer.",
+   "imageQuery": "passage of time",
+   "acceptable": [
+    "a03a",
+    "a03b"
+   ],
+   "candidates": [
+    {
+     "id": "a03a",
+     "title": "Hourglass with falling sand",
+     "tags": [
+      "hourglass",
+      "sand",
+      "timer"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a03b",
+     "title": "Long exposure of clock hands",
+     "tags": [
+      "clock",
+      "motion blur"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a03c",
+     "title": "Calendar pages",
+     "tags": [
+      "calendar",
+      "dates",
+      "planning"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a03d",
+     "title": "Mountain pass road",
+     "tags": [
+      "pass",
+      "mountain",
+      "road"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a03e",
+     "title": "Times Square crowd",
+     "tags": [
+      "times square",
+      "new york",
+      "crowd"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a04",
+   "category": "abstract",
+   "narration": "Every decision is a bet placed without seeing all the cards.",
+   "imageQuery": "decision under uncertainty",
+   "acceptable": [
+    "a04a",
+    "a04b",
+    "a04e"
+   ],
+   "candidates": [
+    {
+     "id": "a04a",
+     "title": "Fork in a forest path",
+     "tags": [
+      "path",
+      "forest",
+      "crossroads"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a04b",
+     "title": "Poker cards on a table",
+     "tags": [
+      "poker",
+      "cards",
+      "gambling"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a04c",
+     "title": "Question mark sign",
+     "tags": [
+      "question mark",
+      "sign"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "a04d",
+     "title": "Board meeting",
+     "tags": [
+      "meeting",
+      "office",
+      "business"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a04e",
+     "title": "Foggy road",
+     "tags": [
+      "fog",
+      "road",
+      "mist"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a05",
+   "category": "abstract",
+   "narration": "You can feel alone in a city of ten million people.",
+   "imageQuery": "loneliness in a big city",
+   "acceptable": [
+    "a05a",
+    "a05c"
+   ],
+   "candidates": [
+    {
+     "id": "a05a",
+     "title": "Lone figure on a city street at night",
+     "tags": [
+      "alone",
+      "city",
+      "night",
+      "street"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a05b",
+     "title": "Busy city intersection",
+     "tags": [
+      "city",
+      "traffic",
+      "crowd"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a05c",
+     "title": "Single chair in an empty room",
+     "tags": [
+      "chair",
+      "empty room",
+      "minimal"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a05d",
+     "title": "Big city skyline at dusk",
+     "tags": [
+      "skyline",
+      "city",
+      "dusk"
+     ],
+     "width": 2400,
+     "height": 1350,
+     "license": "by"
+    },
+    {
+     "id": "a05e",
+     "title": "Lonely Planet guidebook",
+     "tags": [
+      "book",
+      "travel"
+     ],
+     "width": 1200,
+     "height": 800,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a06",
+   "category": "abstract",
+   "narration": "New ideas spread like ripples across a pond.",
+   "imageQuery": "ideas spreading",
+   "acceptable": [
+    "a06a",
+    "a06b",
+    "a06d"
+   ],
+   "candidates": [
+    {
+     "id": "a06a",
+     "title": "Ripples spreading across a pond",
+     "tags": [
+      "ripples",
+      "water",
+      "pond"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a06b",
+     "title": "Light bulb glowing",
+     "tags": [
+      "light bulb",
+      "idea",
+      "glow"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a06c",
+     "title": "Butter spreading on toast",
+     "tags": [
+      "butter",
+      "toast",
+      "breakfast"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "a06d",
+     "title": "Network of connected dots",
+     "tags": [
+      "network",
+      "connections",
+      "graphic"
+     ],
+     "width": 1920,
+     "height": 1080,
+     "license": "by"
+    },
+    {
+     "id": "a06e",
+     "title": "Brainstorm sticky notes",
+     "tags": [
+      "sticky notes",
+      "brainstorm",
+      "office"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a07",
+   "category": "abstract",
+   "narration": "False stories often travel faster online than the truth.",
+   "imageQuery": "misinformation online",
+   "acceptable": [
+    "a07a",
+    "a07b"
+   ],
+   "candidates": [
+    {
+     "id": "a07a",
+     "title": "Person scrolling a phone at night",
+     "tags": [
+      "smartphone",
+      "social media",
+      "scrolling"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a07b",
+     "title": "Newspaper with a fake news headline",
+     "tags": [
+      "fake news",
+      "newspaper",
+      "headline"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a07c",
+     "title": "Online shopping cart",
+     "tags": [
+      "online shopping",
+      "ecommerce"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "a07d",
+     "title": "Rumour mill water wheel",
+     "tags": [
+      "mill",
+      "water wheel"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a07e",
+     "title": "Fast car on a highway",
+     "tags": [
+      "car",
+      "highway",
+      "speed"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a08",
+   "category": "abstract",
+   "narration": "The richest one percent now hold more wealth than the bottom half.",
+   "imageQuery": "wealth inequality",
+   "acceptable": [
+    "a08a",
+    "a08c",
+    "a08e"
+   ],
+   "candidates": [
+    {
+     "id": "a08a",
+     "title": "Luxury yacht beside a fishing boat",
+     "tags": [
+      "yacht",
+      "boat",
+      "harbor"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a08b",
+     "title": "Gold bars",
+     "tags": [
+      "gold",
+      "wealth",
+      "bullion"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a08c",
+     "title": "Unequal stacks of coins",
+     "tags": [
+      "coins",
+      "stacks",
+      "comparison"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a08d",
+     "title": "Mathematical inequality symbols",
+     "tags": [
+      "math",
+      "symbols",
+      "inequality"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "a08e",
+     "title": "Slum next to skyscrapers",
+     "tags": [
+      "slum",
+      "skyscrapers",
+      "contrast"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a09",
+   "category": "abstract",
+   "narration": "Most of a workday disappears into small interruptions.",
+   "imageQuery": "productivity at work",
+   "acceptable": [
+    "a09a",
+    "a09b"
+   ],
+   "candidates": [
+    {
+     "id": "a09a",
+     "title": "Desk covered with sticky notes and a laptop",
+     "tags": [
+      "desk",
+      "laptop",
+      "office",
+      "work"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a09b",
+     "title": "Notifications on a phone screen",
+     "tags": [
+      "phone",
+      "notifications",
+      "distraction"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a09c",
+     "title": "Factory assembly line",
+     "tags": [
+      "factory",
+      "assembly line",
+      "manufacturing"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a09d",
+     "title": "Road work sign",
+     "tags": [
+      "road work",
+      "sign",
+      "construction"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a09e",
+     "title": "Coffee cup",
+     "tags": [
+      "coffee",
+      "cup",
+      "morning"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    }
+   ]
+  },
+  {
+   "id": "a10",
+   "category": "abstract",
+   "narration": "Many young people say climate change makes them anxious about the future.",
+   "imageQuery": "climate anxiety young people",
+   "acceptable": [
+    "a10a"
+   ],
+   "candidates": [
+    {
+     "id": "a10a",
+     "title": "Young protester holding a climate sign",
+     "tags": [
+      "climate strike",
+      "protest",
+      "youth"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a10b",
+     "title": "Thermometer in the sun",
+     "tags": [
+      "heat",
+      "thermometer",
+      "summer"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    },
+    {
+     "id": "a10c",
+     "title": "Crowd of young people at a festival",
+     "tags": [
+      "festival",
+      "crowd",
+      "young people"
+     ],
+     "width": 1920,
+     "height": 1280,
+     "license": "by"
+    },
+    {
+     "id": "a10d",
+     "title": "Climate control dial in a car",
+     "tags": [
+      "climate control",
+      "car",
+      "dashboard"
+     ],
+     "width": 1600,
+     "height": 1067,
+     "license": "by"
+    },
+    {
+     "id": "a10e",
+     "title": "Melting ice cream",
+     "tags": [
+      "ice cream",
+      "melting",
+      "summer"
+     ],
+     "width": 1500,
+     "height": 1000,
+     "license": "by"
+    }
+   ]
+  }
+ ]
+}

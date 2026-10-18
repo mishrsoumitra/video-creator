@@ -1,0 +1,35 @@
+{
+  "name": "@vc/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local backend: HTTP API, provider setup, job store, render queue.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "@fastify/multipart": "^10.1.4",
+    "@fastify/static": "^10.1.6",
+    "@mozilla/readability": "^0.6.0",
+    "@remotion/bundler": "4.0.536",
+    "@remotion/renderer": "4.0.536",
+    "@vc/composition": "0.1.0",
+    "@vc/config": "0.1.0",
+    "@vc/media": "0.1.0",
+    "@vc/pipeline": "0.1.0",
+    "@vc/providers": "0.1.0",
+    "@vc/secrets": "0.1.0",
+    "better-sqlite3": "^13.0.3",
+    "fastify": "^5.12.7",
+    "linkedom": "^0.18.13",
+    "zod": "4.5.4",
+    "@remotion/google-fonts": "4.0.536"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0"
+  }
+}

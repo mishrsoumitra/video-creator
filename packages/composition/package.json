@@ -1,0 +1,41 @@
+{
+  "name": "@vc/composition",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The Remotion composition. Reads the video config as props; Studio gets a props editor from the same Zod schema.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./constants": "./src/constants.ts",
+    "./entry": "./src/entry.ts"
+  },
+  "scripts": {
+    "studio": "remotion studio src/entry.ts",
+    "build": "remotion bundle src/entry.ts --out-dir build"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.536",
+    "@remotion/effects": "4.0.536",
+    "@remotion/google-fonts": "4.0.536",
+    "@remotion/layout-utils": "4.0.536",
+    "@remotion/light-leaks": "4.0.536",
+    "@remotion/media": "4.0.536",
+    "@remotion/motion-blur": "4.0.536",
+    "@remotion/noise": "4.0.536",
+    "@remotion/rough-notation": "4.0.536",
+    "@remotion/starburst": "4.0.536",
+    "@remotion/transitions": "4.0.536",
+    "@remotion/zod-types": "4.0.536",
+    "@vc/config": "0.1.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "4.0.536",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "4.0.536",
+    "@remotion/cli": "4.0.536",
+    "@remotion/renderer": "4.0.536",
+    "@vc/media": "0.1.0"
+  }
+}

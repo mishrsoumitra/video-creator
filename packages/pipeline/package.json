@@ -1,0 +1,16 @@
+{
+  "name": "@vc/pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pipeline stages, provider interfaces, AI-call ledger, cost cap and caching. Never imports vendor SDKs.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./testing": "./src/testing/index.ts"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.536",
+    "@vc/config": "0.1.0",
+    "zod": "4.5.4"
+  }
+}

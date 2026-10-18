@@ -1,0 +1,11 @@
+{
+  "name": "@vc/media",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "ffmpeg/ffprobe wrappers: audio mix, ducking, loudness, clipping, mux, concat, contact sheets.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./testing": "./src/testing/index.ts"
+  }
+}

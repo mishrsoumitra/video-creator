@@ -1,0 +1,20 @@
+{
+  "name": "@vc/config",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The single typed video config: Zod schema, field metadata, presets, simple-control bundles, warnings and estimators.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/zod-types": "4.0.536",
+    "zod": "4.5.4",
+    "@remotion/captions": "4.0.536"
+  },
+  "devDependencies": {
+    "@remotion/renderer": "4.0.536",
+    "@remotion/transitions": "4.0.536",
+    "remotion": "4.0.536"
+  }
+}

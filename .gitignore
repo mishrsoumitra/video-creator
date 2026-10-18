@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+out/
+.cache/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+# local app data (job outputs, vault, sqlite)
+.vc-data/
+apps/server/.data/
+# remotion
+packages/composition/build/

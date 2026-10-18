@@ -1,0 +1,59 @@
+{
+  "name": "video-creator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Topic-to-video generator: one typed config schema drives the API, the UI and the Remotion composition.",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "workspaces": [
+    "packages/config",
+    "packages/secrets",
+    "packages/media",
+    "packages/pipeline",
+    "packages/providers",
+    "packages/composition",
+    "apps/server",
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build -w @vc/web && npm run build -w @vc/composition && npm run build -w @vc/server",
+    "start": "node apps/server/dist/index.js",
+    "typecheck": "node scripts/typecheck.mjs",
+    "lint": "eslint . --max-warnings=0",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run --project unit --project web",
+    "test:all": "vitest run",
+    "test:watch": "vitest --project unit --project web",
+    "test:coverage": "vitest run --project unit --project web --coverage",
+    "test:media": "vitest run --project media",
+    "test:render": "vitest run --project render",
+    "verify": "npm run typecheck && npm run lint && npm run test:all",
+    "studio": "npm run studio -w @vc/composition",
+    "tune:threshold": "tsx packages/pipeline/scripts/tune-threshold.ts",
+    "demo": "tsx apps/server/scripts/demo-server.ts",
+    "calibrate": "tsx apps/server/scripts/calibrate.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitest/coverage-v8": "4.1.12",
+    "esbuild": "0.28.1",
+    "eslint": "^10.13.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
+    "tsx": "^4.23.15",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.71.2",
+    "vitest": "4.1.12"
+  },
+  "overrides": {
+    "zod": "4.5.4"
+  }
+}

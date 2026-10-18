@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+package-lock.json
+*.tsbuildinfo
+packages/pipeline/fixtures/**/*.json
+build
+.vc-data
+.data
